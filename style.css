@@ -1,0 +1,44 @@
+.bg-light {
+    background-color: #f8f9fa!important;
+}
+
+.navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+}
+
+.article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+
+
+.nav {
+    display: block;
+}
+
+.thumbnail {
+    width: 250px;
+    align-items: center;
+    padding: 10px;
+}
+
+.thumbnail2 {
+    width: 500px;
+    align-content: center;
+    padding: 10px;
+}
+
+.thumbnailborder {
+    width: 300px;
+    align-items: center;
+    padding: 3px;
+    border: 10px solid gray;
+}
